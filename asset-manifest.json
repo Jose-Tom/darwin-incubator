@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/darwin-incubator.github.io/static/css/main.7ada1bd8.css",
+    "main.js": "/darwin-incubator.github.io/static/js/main.2a743a79.js",
+    "static/media/cover.png": "/darwin-incubator.github.io/static/media/cover.e9393ca211cdf75835b7.png",
+    "index.html": "/darwin-incubator.github.io/index.html",
+    "main.7ada1bd8.css.map": "/darwin-incubator.github.io/static/css/main.7ada1bd8.css.map",
+    "main.2a743a79.js.map": "/darwin-incubator.github.io/static/js/main.2a743a79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ada1bd8.css",
+    "static/js/main.2a743a79.js"
+  ]
+}
