@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/darwin-incubator/static/css/main.7ada1bd8.css",
-    "main.js": "/darwin-incubator/static/js/main.e599636d.js",
+    "main.js": "/darwin-incubator/static/js/main.f714b690.js",
     "static/media/cover.png": "/darwin-incubator/static/media/cover.e9393ca211cdf75835b7.png",
     "index.html": "/darwin-incubator/index.html",
     "main.7ada1bd8.css.map": "/darwin-incubator/static/css/main.7ada1bd8.css.map",
-    "main.e599636d.js.map": "/darwin-incubator/static/js/main.e599636d.js.map"
+    "main.f714b690.js.map": "/darwin-incubator/static/js/main.f714b690.js.map"
   },
   "entrypoints": [
     "static/css/main.7ada1bd8.css",
-    "static/js/main.e599636d.js"
+    "static/js/main.f714b690.js"
   ]
 }
